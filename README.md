@@ -1,0 +1,1 @@
+Build logstash image with the output plugin for amazon-es
